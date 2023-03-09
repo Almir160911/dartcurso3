@@ -44,6 +44,13 @@ void main(List<String> arguments) {
   limao1.fazerMassa();
   limao1.assar();
   macadamia1.fazerMassa();
+
+  print('Qual a sua idade?');
+  String? entrada = stdin.readLineSync();
+  if (entrada != null) {
+    int idade = int.parse(entrada);
+    print('Minha idade é $idade');
+  }
 }
 
 // Posicionaiss Obrigatórios
