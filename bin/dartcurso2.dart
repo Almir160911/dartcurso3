@@ -1,3 +1,5 @@
+import 'dart:io';
+
 void main(List<String> arguments) {
   String nome = 'Laranja';
   double peso = 100.2;
