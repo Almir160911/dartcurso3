@@ -1,4 +1,4 @@
-import 'package:dartcurso2/dartcurso2.dart';
+import 'package:dartcurso2/dartcurso3.dart';
 import 'package:test/test.dart';
 
 void main() {
